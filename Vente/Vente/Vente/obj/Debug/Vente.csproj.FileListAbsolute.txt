@@ -1,0 +1,50 @@
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\bin\Debug\Vente.exe.config
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\bin\Debug\Vente.exe
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\bin\Debug\Vente.pdb
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.csprojAssemblyReference.cache
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form1.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form2.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form3.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form4.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form5.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form6.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Form7.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Properties.Resources.resources
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.csproj.GenerateResource.cache
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.csproj.CoreCompileInputs.cache
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.exe
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.pdb
+C:\ahmed benkrara\TDI206\M204 Développement des applications client serveur\TP\Vente\Vente\obj\Debug\Vente.Menu.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\bin\Debug\Vente.exe.config
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\bin\Debug\Vente.exe
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\bin\Debug\Vente.pdb
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.csprojAssemblyReference.cache
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form1.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form2.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form3.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form4.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form5.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form6.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Form7.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Menu.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.Properties.Resources.resources
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.csproj.GenerateResource.cache
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.csproj.CoreCompileInputs.cache
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.exe
+C:\Users\nouni\OneDrive\Bureau\Vente\Vente\obj\Debug\Vente.pdb
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\bin\Debug\Vente.exe.config
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\bin\Debug\Vente.exe
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\bin\Debug\Vente.pdb
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form1.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form2.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form3.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form4.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form5.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form6.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Form7.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Menu.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.Properties.Resources.resources
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.exe
+C:\Users\Dell\Documents\ISTA NTIC\2Annee TDI 205\TP etCOURS de Mme OUMNI\Vente\Vente\Vente\obj\Debug\Vente.pdb
